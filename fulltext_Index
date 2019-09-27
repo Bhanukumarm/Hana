@@ -1,0 +1,3 @@
+create fulltext index index_name on table_name (column_name) configuration
+'EXTRACTION_CORE_VOICEOFCUSTOMER' text analysis on;
+
